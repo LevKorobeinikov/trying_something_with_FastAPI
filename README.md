@@ -1,5 +1,3 @@
-### Приветсвую! Очень не против дописать где-то начатые док стринг, свэгер сделать читабельным или даже написать деплой на докерхаб - к сожалению поджало время.
-
 ## Структура проекта
   ```bash
    app/
@@ -28,8 +26,8 @@
 1. Клонирование репозитория:
 
    ```bash
-   git clone git@github.com:LevKorobeinikov/test_task_for_ITWorld.git
-   cd test_task_for_ITWorld
+   git clone git@github.com:LevKorobeinikov/trying_something_with_FastAPI.git
+   cd trying_something_with_FastAPI
    ```
 
 2. Создать и активировать виртуальное окружение:
